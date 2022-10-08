@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af4bc6b8-fa74-4a14-8143-e7ce7c808a0b" name="Default Changelist" comment="" />
+    <list default="true" id="af4bc6b8-fa74-4a14-8143-e7ce7c808a0b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day3/Junit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2FgbO0PUXlwXzagzUtAFY9U5L1s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
@@ -38,22 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WebTables.test1">
-    <configuration name="Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EUFastTrackSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.Alerts" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Junit">
     <configuration name="Alerts.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
@@ -82,6 +76,21 @@
       <option name="MAIN_CLASS_NAME" value="Day3.Frames" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EUFastTrackSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.Junit" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Junit" />
         <item itemvalue="JUnit.WebTables.test1" />
         <item itemvalue="JUnit.Windows.test1" />
         <item itemvalue="JUnit.Frames.test1" />
         <item itemvalue="JUnit.Alerts.test3" />
-        <item itemvalue="JUnit.Alerts" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +149,16 @@
       <updated>1664916639037</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
