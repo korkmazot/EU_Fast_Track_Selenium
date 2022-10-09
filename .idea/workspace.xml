@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af4bc6b8-fa74-4a14-8143-e7ce7c808a0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/DragDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Frames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Hover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/JSExecuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/KeyBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Upload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/aws.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day3/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day3/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Day3/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Day3/BasePage.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
